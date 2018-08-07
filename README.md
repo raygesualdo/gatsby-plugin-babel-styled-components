@@ -1,3 +1,5 @@
+**Deprecation Notice:** As of [this PR](https://github.com/gatsbyjs/gatsby/pull/4722) merged on March 26, `gatsby-plugin-styled-components` natively invokes the styled-components babel plugin, if installed. No further updates will be made to this 
+
 # gatsby-plugin-babel-styled-components
 
 [![npm (scoped)](https://img.shields.io/npm/v/@raygesualdo/gatsby-plugin-babel-styled-components.svg?style=flat-square)](https://www.npmjs.com/package/@raygesualdo/gatsby-plugin-babel-styled-components)
